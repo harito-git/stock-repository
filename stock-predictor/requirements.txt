@@ -1,0 +1,11 @@
+flask
+yfinance
+transformers
+torch
+langchain
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
+huggingface_hub
